@@ -4,4 +4,8 @@ def main():
 
 main()
 
-print("Kyle R.")
+first_name = "Kyle"
+last_name = "Rinehart"
+age = 36
+
+print("My name is "+first_name+" "+last_name+".  I am "+str(age)+" years old.")
